@@ -1,0 +1,23 @@
+{
+  "name": "stunning-octo-lamp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll --verbose --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IRAKOZEAimeAubin/stunning-octo-lamp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IRAKOZEAimeAubin/stunning-octo-lamp/issues"
+  },
+  "homepage": "https://github.com/IRAKOZEAimeAubin/stunning-octo-lamp#readme",
+  "devDependencies": {
+    "jest": "^29.0.1"
+  }
+}
